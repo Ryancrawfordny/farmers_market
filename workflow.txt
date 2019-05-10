@@ -1,0 +1,7 @@
+1 Add only the file(s) that you are working on at the moment to your git adds
+2 All branches you create should begin with your name
+3 All commits should explicitly state what changes were made and what was worked on 
+4 Commit after each function is completed or after a half hour has passed (max)
+5 Work with others in the room if at all possible
+6 Sleep at night
+7 Don't hate yourself
